@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apoorvtyagii
-- 👀 I’m interested in Python and machine learning development.
-- 🌱 I’m currently learning AI/ML and devops technologies.
-- 💞️ I’m looking to collaborate on Python
+- 👀 Interested in Python and machine learning development.
+- 🌱 Currently learning AI/ML and devops technologies.
+- 💞️ Looking to collaborate on Python
 - 📫 Write me on: myselfapoorvtyagi@gmail.com, Linkedin: https://www.linkedin.com/in/myselfapoorvtyagi/
 
 <!---
